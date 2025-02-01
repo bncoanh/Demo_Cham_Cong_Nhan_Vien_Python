@@ -12,3 +12,6 @@
 -project sửa dụng chấm công khuôn mặt sửa dụng phát hiện đối tượng haarcascade_frontalface_default
 -Khi thêm mới đối tượng, thiết bị sẽ nhận diện đối tượng và chụp tự động 99 ảnh.
 
+# cách khởi động project
+- Mở project và cài các thư viện cần thiết trong file command.txt. (Nên sửa dụng python 3.10 trở lên)
+- chạy file main.py
